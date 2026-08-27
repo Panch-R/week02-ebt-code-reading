@@ -1,7 +1,7 @@
 # Week 2 - EBT Python Code Reading
 
 ## Goal
-Understand the existing EBT Python code and its design.
+Understand the existing Energy Balance Table (EBT) Python code for data processing and its design.
 
 ## What I learned
 
@@ -55,9 +55,9 @@ Source files
 ## What I can explain now
 - The difference between a Workbook and a Worksheet
 - How to designate only one source file
-- Why Source files are opened as ReadOnly
+- Why are source files opened as ReadOnly
 - How Excel data is transferred through Range.Value
 - Why list() is used with Path.glob()
 - How for / if / continue work together
 - How lambda is used with retry()
-- Why retry() is necessary when Excel is busy
+- Why is retry () necessary when Excel is busy
